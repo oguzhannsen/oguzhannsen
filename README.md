@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @oguzhannsen
-- 👀 I’m 
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m  Oğuzhan
+- 👀 I’m a stundent forever
+- 🌱 I’m currently learning Pyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
