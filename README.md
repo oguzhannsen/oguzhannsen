@@ -1,8 +1,7 @@
 - 👋 Hi, I’m  Oğuzhan
 - 👀 I’m a stundent forever
 - 🌱 I’m currently learning Pyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Twitter follow me @oguzhansn_
 
 <!---
 oguzhannsen/oguzhannsen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
